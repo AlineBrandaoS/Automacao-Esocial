@@ -15,7 +15,7 @@ A automação foi utilizada como objeto de estudo na disciplina **Imersão Profi
 ## 📊 Resultados Obtidos
 
 - Redução do tempo de execução de aproximadamente **3–4 dias para 1–2 dias**
-- Taxa de acerto aproximada de **70%**
+- Taxa de acerto aproximada de **99%**
 - Padronização do processo e redução significativa de erros manuais
 - Maior confiabilidade na execução das tarefas
 
